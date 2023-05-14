@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "minecraft:block/oak_planks",
+    "east": "scme:block/chocolaterie_table_front3",
+    "north": "scme:block/chocolaterie_table_front3",
+    "particle": "scme:block/chocolaterie_table_front3",
+    "south": "scme:block/chocolaterie_table_front3",
+    "up": "scme:block/chocolaterie_table_top4",
+    "west": "scme:block/chocolaterie_table_front3"
+  }
+}

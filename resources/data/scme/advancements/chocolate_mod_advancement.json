@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "item": "scme:brown_chocolate_bar"
+    },
+    "title": "The Chocolate Mod",
+    "description": "Obtain any chocolate bar",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false,
+    "background": "minecraft:textures/block/oak_planks.png"
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "scme:brown_chocolate_bar",
+              "scme:white_chocolate_bar",
+              "scme:dark_chocolate_bar"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

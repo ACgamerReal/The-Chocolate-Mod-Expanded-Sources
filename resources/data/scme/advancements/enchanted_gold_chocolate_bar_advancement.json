@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "scme:enchanted_gold_chocolate_bar"
+    },
+    "title": "The Shiniest Of All!",
+    "description": "Craft An Enchanted Gold Chocolate Bar",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+
+  },
+  "parent": "scme:golden_bar_advancement",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "scme:enchanted_gold_chocolate_bar"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

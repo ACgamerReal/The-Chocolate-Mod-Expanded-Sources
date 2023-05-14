@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "scme:gold_chocolate_bar"
+    },
+    "title": "Is This Even Edible?",
+    "description": "Craft A Golden Chocolate Bar",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+
+  },
+  "parent": "scme:chocolate_mod_advancement",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "scme:gold_chocolate_bar"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

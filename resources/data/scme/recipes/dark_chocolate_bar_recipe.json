@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "scme:dried_cocoa_beans"
+    }
+  },
+  "pattern": [
+    "##",
+    "##",
+    "##"
+  ],
+  "result": {
+    "item": "scme:dark_chocolate_bar"
+  },
+  "show_notification": true
+}
