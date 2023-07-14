@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "scme:theobroma_wood"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "scme:blocks/theobroma_wood"
+}

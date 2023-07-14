@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:sculk"
+    },
+    "X": [
+      {
+        "tag": "scme:regular_chocolate_bars"
+      }
+    ]
+  },
+  "pattern": [
+    " # ",
+    "#X#",
+    " # "
+  ],
+  "result": {
+    "count": 1,
+    "item": "scme:sculk_chocolate_bar"
+  },
+  "show_notification": true
+}

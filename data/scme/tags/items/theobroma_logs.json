@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "scme:theobroma_log",
+    "scme:theobroma_wood",
+    "scme:stripped_theobroma_log",
+    "scme:stripped_theobroma_wood"
+  ]
+}

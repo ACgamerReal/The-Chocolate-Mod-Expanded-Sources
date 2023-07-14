@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:bowl"
+    },
+    "X": [
+      {
+        "tag": "scme:regular_chocolate_bars"
+      }
+    ]
+  },
+  "pattern": [
+    "X",
+    "#"
+  ],
+  "result": {
+    "count": 1,
+    "item": "scme:brown_chocolate_bar_bowl"
+  },
+  "show_notification": true
+}

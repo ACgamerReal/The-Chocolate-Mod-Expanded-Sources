@@ -1,0 +1,38 @@
+{
+  "display": {
+    "icon": {
+      "item": "scme:theobroma_planks"
+    },
+    "title": "Warped Wood, But Better?",
+    "description": "Obtain The New Theobroma Wood Type",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "scme:chocolate_mod_advancement",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "scme:theobroma_wood",
+              "scme:stripped_theobroma_log",
+              "scme:stripped_theobroma_wood",
+              "scme:theobroma_stairs",
+              "scme:theobroma_slab",
+              "scme:theobroma_door",
+              "scme:theobroma_trapdoor",
+              "scme:theobroma_fence",
+              "scme:theobroma_fence_gate",
+              "scme:theobroma_button",
+              "scme:theobroma_planks"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "item": "scme:brown_chocolate_scroll"
+    },
+    "title": "Chocolate Magic?",
+    "description": "Obtain A Chocolate Scroll",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+
+  },
+  "parent": "scme:chocolate_mod_advancement",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "scme:brown_chocolate_scroll",
+              "scme:dark_chocolate_scroll",
+              "scme:white_chocolate_scroll"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

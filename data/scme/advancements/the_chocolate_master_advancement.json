@@ -1,0 +1,73 @@
+{
+  "parent": "scme:chocolate_mod_advancement",
+  "criteria": {
+    "chocolate_bars": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "scme:brown_chocolate_bar"
+            ]
+          },
+          {
+            "items": [
+              "scme:white_chocolate_bar"
+            ]
+          },
+          {
+            "items": [
+              "scme:dark_chocolate_bar"
+            ]
+          },
+          {
+            "items": [
+              "scme:gold_chocolate_bar"
+            ]
+          },
+          {
+            "items": [
+              "scme:enchanted_gold_chocolate_bar"
+            ]
+          },
+          {
+            "items": [
+              "scme:sculk_chocolate_bar"
+            ]
+          },
+          {
+            "items": [
+              "scme:iced_chocolate_bar"
+            ]
+          },
+          {
+            "items": [
+              "scme:magma_chocolate_bar"
+            ]
+          },
+          {
+            "items": [
+              "scme:ender_chocolate_bar"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": "Have All Chocolate Bars Equipped In Your Inventory",
+    "frame": "challenge",
+    "hidden": false,
+    "icon": {
+      "item": "scme:enchanted_gold_chocolate_bar"
+    },
+    "show_toast": true,
+    "title": "The Chocolate Master",
+    "requirements": [
+      [
+        "chocolate_bars"
+      ]
+    ]
+  }
+}

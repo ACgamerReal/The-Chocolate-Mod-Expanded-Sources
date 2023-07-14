@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "scme:theobroma_log",
+    "scme:theobroma_wood",
+    "scme:stripped_theobroma_log",
+    "scme:stripped_theobroma_wood",
+    "scme:theobroma_stairs",
+    "scme:theobroma_slab",
+    "scme:theobroma_door",
+    "scme:theobroma_trapdoor",
+    "scme:theobroma_fence",
+    "scme:theobroma_fence_gate",
+    "scme:theobroma_button",
+    "scme:theobroma_planks"
+  ]
+}

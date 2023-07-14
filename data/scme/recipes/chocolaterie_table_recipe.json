@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "X": {
+      "item": "minecraft:crafting_table"
+    },
+    "#": [
+      {
+        "tag": "scme:regular_chocolate_bars"
+      }
+    ]
+  },
+  "pattern": [
+    " # ",
+    "#X#",
+    " # "
+  ],
+  "result": {
+    "count": 1,
+    "item": "scme:chocolaterie_table"
+  },
+  "show_notification": true
+}

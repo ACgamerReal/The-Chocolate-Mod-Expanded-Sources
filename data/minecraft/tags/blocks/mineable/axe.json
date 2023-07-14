@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "scme:chocolaterie_table",
+    "scme:theobroma_log",
+    "scme:theobroma_wood",
+    "scme:theobroma_planks",
+    "scme:stripped_theobroma_wood",
+    "scme:stripped_theobroma_log",
+    "scme:theobroma_fence",
+    "scme:theobroma_fence_gate",
+    "scme:theobroma_button",
+    "scme:theobroma_pressure_plate",
+    "scme:theobroma_stairs",
+    "scme:theobroma_door",
+    "scme:theobroma_trapdoor",
+    "scme:theobroma_slab"
+  ]
+}

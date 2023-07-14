@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:chorus_fruit"
+    },
+    "X": [
+      {
+        "tag": "scme:regular_chocolate_bars"
+      }
+    ]
+  },
+  "pattern": [
+    " # ",
+    "#X#",
+    " # "
+  ],
+  "result": {
+    "count": 1,
+    "item": "scme:ender_chocolate_bar"
+  },
+  "show_notification": true
+}

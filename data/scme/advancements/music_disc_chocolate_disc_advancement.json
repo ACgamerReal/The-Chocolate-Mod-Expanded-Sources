@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "scme:music_box_chocolate_disc"
+    },
+    "title": "Feel The Vibe!",
+    "description": "Find The New Music Disc",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+
+  },
+  "parent": "scme:chocolate_mod_advancement",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "scme:music_box_chocolate_disc"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

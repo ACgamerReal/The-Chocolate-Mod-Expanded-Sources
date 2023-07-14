@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "scme:sculk_chocolate_bar"
+    },
+    "title": "Corrupted Chocolate?",
+    "description": "Obtain A Sculk Chocolate Bar",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+
+  },
+  "parent": "scme:golden_bar_advancement",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "scme:sculk_chocolate_bar"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

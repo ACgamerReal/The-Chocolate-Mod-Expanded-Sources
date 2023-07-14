@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "scme:magma_chocolate_bar"
+    },
+    "title": "hot!... HOT!... HOT!",
+    "description": "Obtain A Magma Chocolate Bar",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+
+  },
+  "parent": "scme:golden_bar_advancement",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "scme:magma_chocolate_bar"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

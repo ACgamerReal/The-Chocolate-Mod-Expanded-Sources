@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "scme:iced_chocolate_bar"
+    },
+    "title": "cold!... COLD!... COLD!",
+    "description": "Obtain An Iced Chocolate Bar",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+
+  },
+  "parent": "scme:golden_bar_advancement",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "scme:iced_chocolate_bar"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

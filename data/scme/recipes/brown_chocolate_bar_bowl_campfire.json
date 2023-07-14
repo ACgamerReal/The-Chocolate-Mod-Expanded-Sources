@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "food",
+  "cookingtime": 400,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "scme:brown_chocolate_bar_bowl"
+  },
+  "result": "scme:hot_chocolate_bowl"
+}

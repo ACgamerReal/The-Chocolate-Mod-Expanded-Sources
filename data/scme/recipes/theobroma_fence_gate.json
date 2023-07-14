@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "wooden_fence",
+  "key": {
+    "W": {
+      "item": "minecraft:stick"
+    },
+    "#": {
+      "item": "scme:theobroma_planks"
+    }
+  },
+  "pattern": [
+    "W#W",
+    "W#W"
+  ],
+  "result": {
+    "item": "scme:theobroma_fence_gate"
+  },
+  "show_notification": true
+}
