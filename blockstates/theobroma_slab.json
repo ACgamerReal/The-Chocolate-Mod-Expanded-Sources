@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "scme:block/theobroma_slab"
+    },
+    "type=double": {
+      "model": "scme:block/theobroma_planks"
+    },
+    "type=top": {
+      "model": "scme:block/theobroma_slab_top"
+    }
+  }
+}

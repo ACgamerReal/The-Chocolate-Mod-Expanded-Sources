@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "scme:block/theobroma_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "scme:block/theobroma_wood"
+    },
+    "axis=z": {
+      "model": "scme:block/theobroma_wood",
+      "x": 90
+    }
+  }
+}

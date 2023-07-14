@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "scme:block/stripped_theobroma_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "scme:block/stripped_theobroma_wood"
+    },
+    "axis=z": {
+      "model": "scme:block/stripped_theobroma_wood",
+      "x": 90
+    }
+  }
+}
