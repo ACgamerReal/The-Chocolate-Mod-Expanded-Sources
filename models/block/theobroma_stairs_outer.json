@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "scme:block/theobroma_planks",
+    "top": "scme:block/theobroma_planks",
+    "side": "scme:block/theobroma_planks"
+  }
+}

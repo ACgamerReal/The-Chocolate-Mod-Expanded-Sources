@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "scme:block/stripped_theobroma_log_top",
+    "side": "scme:block/stripped_theobroma_log"
+  }
+}

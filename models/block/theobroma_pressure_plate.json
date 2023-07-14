@@ -1,0 +1,6 @@
+{
+  "parent": "block/pressure_plate_up",
+  "textures": {
+    "texture": "scme:block/theobroma_planks"
+  }
+}

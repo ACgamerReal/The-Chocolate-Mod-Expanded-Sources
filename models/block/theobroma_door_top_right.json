@@ -1,0 +1,7 @@
+{
+"parent": "minecraft:block/door_top_right",
+"textures": {
+"bottom": "scme:block/theobroma_door_bottom",
+"top": "scme:block/theobroma_door_top"
+}
+}

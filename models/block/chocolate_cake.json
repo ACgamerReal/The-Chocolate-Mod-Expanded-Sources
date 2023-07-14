@@ -1,0 +1,21 @@
+{
+    "textures": {
+        "particle": "scme:block/cake_side",
+        "bottom": "scme:block/cake_bottom",
+        "top": "scme:block/cake_top",
+        "side": "scme:block/cake_side"
+    },
+    "elements": [
+        {   "from": [ 1, 0, 1 ],
+            "to": [ 15, 8, 15 ],
+            "faces": {
+                "down":  { "texture": "#bottom", "cullface": "down" },
+                "up":    { "texture": "#top" },
+                "north": { "texture": "#side" },
+                "south": { "texture": "#side" },
+                "west":  { "texture": "#side" },
+                "east":  { "texture": "#side" }
+            }
+        }
+    ]
+}

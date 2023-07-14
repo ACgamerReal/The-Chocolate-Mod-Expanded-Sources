@@ -1,0 +1,51 @@
+{
+  "item.scme.brown_chocolate_bar": "Brown Chocolate Bar",
+  "item.scme.white_chocolate_bar": "White Chocolate Bar",
+  "item.scme.dark_chocolate_bar": "Dark Chocolate Bar",
+  "item.scme.gold_chocolate_bar": "Gold Chocolate Bar",
+  "item.scme.enchanted_gold_chocolate_bar": "Enchanted Gold Chocolate Bar",
+  "item.scme.brown_chocolate_bar_bowl": "Brown Chocolate Bar Bowl",
+  "item.scme.hot_chocolate_bowl": "Hot Chocolate Bowl",
+  "item.scme.magma_chocolate_bar": "Magma Chocolate Bar",
+  "item.scme.ender_chocolate_bar": "Ender Chocolate Bar",
+  "item.scme.iced_chocolate_bar": "Iced Chocolate Bar",
+  "item.scme.sculk_chocolate_bar": "Sculk Chocolate Bar",
+  "item.scme.brown_chocolate_scroll": "Brown Chocolate Scroll",
+  "item.scme.white_chocolate_scroll": "White Chocolate Scroll",
+  "item.scme.dark_chocolate_scroll": "Dark Chocolate Scroll",
+  "item.scme.rotten_chocolate_bar": "Rotten Chocolate Bar",
+  "block.scme.chocolaterie_table": "Chocolaterie Table",
+  "block.scme.chocolate_cake": "Chocolate Cake",
+  "item.scme.dried_cocoa_beans": "Dried Cocoa Beans",
+  "block.scme.theobroma_planks": "Theobroma Planks",
+  "block.scme.theobroma_wood": "Theobroma Wood",
+  "block.scme.theobroma_log": "Theobroma Log",
+  "block.scme.stripped_theobroma_log": "Stripped Theobroma Log",
+  "block.scme.stripped_theobroma_wood": "Stripped Theobroma Wood",
+  "block.scme.theobroma_leaves": "Theobroma Leaves",
+  "block.scme.theobroma_sapling": "Theobroma Sapling",
+  "block.scme.theobroma_button": "Theobroma Button",
+  "block.scme.theobroma_fence_gate": "Theobroma Fence Gate",
+  "block.scme.theobroma_fence": "Theobroma Fence",
+  "block.scme.theobroma_slab": "Theobroma Slab",
+  "block.scme.theobroma_stairs": "Theobroma Stairs",
+  "block.scme.theobroma_pressure_plate": "Theobroma Pressure Plate",
+  "block.scme.theobroma_door": "Theobroma Door",
+  "block.scme.theobroma_trapdoor": "Theobroma Trapdoor",
+
+
+
+
+
+
+  "item.scme.music_box_chocolate_disc": "Music Disc",
+  "item.scme.music_box_chocolate_disc.desc": "JeffSwidex - Chocolate Vibes",
+
+  "entity.minecraft.villager.chocolate_villager3": "Chocolatier"
+
+
+
+
+
+
+}

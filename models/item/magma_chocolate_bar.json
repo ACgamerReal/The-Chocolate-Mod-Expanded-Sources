@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "scme:item/magma_chocolate_bar"
+  }
+}

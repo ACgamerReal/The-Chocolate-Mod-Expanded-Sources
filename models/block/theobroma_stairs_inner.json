@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "scme:block/theobroma_planks",
+    "top": "scme:block/theobroma_planks",
+    "side": "scme:block/theobroma_planks"
+  }
+}
+
